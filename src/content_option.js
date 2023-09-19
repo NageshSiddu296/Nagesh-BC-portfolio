@@ -1,6 +1,7 @@
-const logotext = "Nagesh";
+const logotext = <img className="logo_png" src="/n-logo.png" />;
+
 const meta = {
-    title: "My-Portfolio",
+    title: "Nagesh-Portfolio",
     description: "I'm Nagesh B C.",
 };
 
@@ -15,7 +16,7 @@ const introdata = {
         sixth: "Frontend Web Developer",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    description: "I'm a front-end web developer eager to learn and grow in this field. I enjoy creating web applications from the ground up. I'm focused on building responsive web-applications",
     your_img_url: "https://i.ibb.co/wRhqgzJ/profile.webp",
 };
 
